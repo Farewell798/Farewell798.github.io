@@ -11,6 +11,14 @@
     <content type="html"><![CDATA[<p>♥</p><h3 id="♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥"><a href="#♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥" class="headerlink" title="♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥"></a>♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥</h3><h3 id="日落归山海，山海藏深意，没有人不遗憾，只是有人不喊疼。"><a href="#日落归山海，山海藏深意，没有人不遗憾，只是有人不喊疼。" class="headerlink" title="日落归山海，山海藏深意，没有人不遗憾，只是有人不喊疼。"></a>日落归山海，山海藏深意，没有人不遗憾，只是有人不喊疼。</h3>]]></content>
     
     
+    <categories>
+      
+      <category>Diary</category>
+      
+      <category>record</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -33,6 +41,14 @@
     
     <content type="html"><![CDATA[<p>♥</p><h3 id="♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥"><a href="#♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥" class="headerlink" title="♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥"></a>♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥</h3><h3 id="暗恋，也是很美好的事情，是可以用很多年自己一个人悄悄完成的盛大壮举，可以是遗憾，也可以是一条奔赴幸福和解救自我的长路。"><a href="#暗恋，也是很美好的事情，是可以用很多年自己一个人悄悄完成的盛大壮举，可以是遗憾，也可以是一条奔赴幸福和解救自我的长路。" class="headerlink" title="暗恋，也是很美好的事情，是可以用很多年自己一个人悄悄完成的盛大壮举，可以是遗憾，也可以是一条奔赴幸福和解救自我的长路。"></a>暗恋，也是很美好的事情，是可以用很多年自己一个人悄悄完成的盛大壮举，可以是遗憾，也可以是一条奔赴幸福和解救自我的长路。</h3>]]></content>
     
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+      <category>record</category>
+      
+    </categories>
     
     
     <tags>
@@ -57,6 +73,14 @@
     <content type="html"><![CDATA[<p>♥</p><h3 id="♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥"><a href="#♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥-♥" class="headerlink" title="♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥"></a>♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥</h3><h3 id="放下过去，让心归零，做个知足常乐的人。拥有的，"><a href="#放下过去，让心归零，做个知足常乐的人。拥有的，" class="headerlink" title="放下过去，让心归零，做个知足常乐的人。拥有的，"></a>放下过去，让心归零，做个知足常乐的人。拥有的，</h3><h3 id="就满足；得不到的，就看开。不取悦谁，也不为谁而卑微。"><a href="#就满足；得不到的，就看开。不取悦谁，也不为谁而卑微。" class="headerlink" title="就满足；得不到的，就看开。不取悦谁，也不为谁而卑微。"></a>就满足；得不到的，就看开。不取悦谁，也不为谁而卑微。</h3>]]></content>
     
     
+    <categories>
+      
+      <category>Diary</category>
+      
+      <category>record</category>
+      
+    </categories>
+    
     
     <tags>
       
@@ -79,6 +103,12 @@
     
     <content type="html"><![CDATA[<p>对于博客的第一次尝试！</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
+    
+    <categories>
+      
+      <category>default</category>
+      
+    </categories>
     
     
     <tags>
