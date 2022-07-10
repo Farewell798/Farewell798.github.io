@@ -7,6 +7,7 @@
 
 <head>
   <meta charset="UTF-8">
+  <link href="https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
   <link rel="apple-touch-icon" sizes="76x76" href="/img/tb.jpg">
   <link rel="icon" href="/img/tb.jpg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
@@ -64,6 +65,15 @@
     <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
   
 
+
+
+  
+<link rel="stylesheet" href="/css/scroll.css">
+<link rel="stylesheet" href="/css/shubiao.css">
+<link rel="stylesheet" href="/css/yejiaojianbian.css">
+<link rel="stylesheet" href="/css/gundongtiao.css">
+<link rel="stylesheet" href="/css/waifu.css">
+<link rel="stylesheet" href="/css/waifu1.css">
 
 
 
@@ -469,7 +479,42 @@
   </main>
 
   <footer>
-    <div class="footer-inner">
+    <div class="text-center mt-5 py-3">
+    <div class="footer-content">
+        <div>
+            <span id="timeDate">载入天数...</span>
+            <span id="times">载入时分秒...</span>
+            <script>
+              var now = new Date();
+              function createtime(){
+                var grt= new Date("07/01/2022 00:00:00");//此处修改你的建站时间或者网站上线时间
+                now.setTime(now.getTime()+250);
+                days = (now - grt ) / 1000 / 60 / 60 / 24;
+                dnum = Math.floor(days);
+                hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum);
+                hnum = Math.floor(hours);
+                if(String(hnum).length ==1 ){
+                  hnum = "0" + hnum;
+                }
+                minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+                mnum = Math.floor(minutes);
+                if(String(mnum).length ==1 ){
+                  mnum = "0" + mnum;
+                }
+                seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+                snum = Math.round(seconds);
+                if(String(snum).length ==1 ){
+                  snum = "0" + snum;
+                }
+                document.getElementById("timeDate").innerHTML = "©以在夹缝中稳定运行：🚀  "+dnum+"&nbsp天";  //此次自定义显示内容
+                document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+              }
+              setInterval("createtime()",250);
+            </script>
+        </div>
+    </div>
+    <div>©2022<a href="/">  ♥秘密空间♥</a></div>
+ <div class="footer-inner">
   
     <div class="footer-content">
        <a ><span>GXL</span></a> <i class="iconfont icon-love"></i> <a ><span>LYT</span></a> 
@@ -502,6 +547,7 @@
   
   
   
+</div>
 </div>
 
   </footer>
@@ -594,6 +640,19 @@
   <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
 
 
+
+
+  
+<script src="/js/caidai.js"></script>
+<script src="/js/yinghua.js"></script>
+<script src="/js/dianjichuzi.js"></script>
+<script src="/js/xiantiao.js"></script>
+<script src="/js/qipao.js"></script>
+<script src="/js/love.js"></script>
+<script src="/js/xiaoxingxing.js"></script>
+<script src="/js/waifu-tips.js"></script>
+<script src="/js/vanilla-tilt.js"></script>
+<script src="/js/live2d.min.js"></script>
 
 
 
